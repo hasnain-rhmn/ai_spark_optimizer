@@ -1,0 +1,11 @@
+database/
+datasets/
+spark_events/
+telemetry_etl/experimentation.ipynb
+
+.env
+venv/
+.DS_Store
+prometheus_data/
+**/__pycache__/
+*.pyc
